@@ -26,7 +26,7 @@ function animateText(){
         }
     }
 
-    setTimeout(animateText, 150);
+    setTimeout(animateText, 300);
 }
 animateText()
 
